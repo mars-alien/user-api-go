@@ -312,7 +312,7 @@ Content-Type: application/json
 ```bash
 curl -X POST http://localhost:3000/users \
   -H "Content-Type: application/json" \
-  -d '{"name":"Alice Smith","dob":"1990-05-15"}'
+  -d '{"name": "Abhay","dob": "1990-05-15"}'
 ```
 
 **PowerShell Example:**
@@ -414,7 +414,7 @@ Content-Type: application/json
 ```bash
 curl -X PUT http://localhost:3000/users/1 \
   -H "Content-Type: application/json" \
-  -d '{"name":"Alice Johnson","dob":"1990-05-15"}'
+  -d '{"name": "Abhay", "dob": "1990-05-15"}'
 ```
 
 ---
@@ -779,7 +779,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 Royal Sachan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -812,3 +812,4 @@ in the Software without restriction...
 [⬆ Back to Top](#-user-management-api---go-backend)
 
 </div>
+
