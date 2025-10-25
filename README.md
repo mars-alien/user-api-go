@@ -303,8 +303,8 @@ Content-Type: application/json
 ```json
 {
   "id": 1,
-  "name": "Royal",
-  "dob": "2004-07-18"
+ "name": "Abhay",
+  "dob": "1990-05-15"
 }
 ```
 
@@ -812,4 +812,5 @@ in the Software without restriction...
 [⬆ Back to Top](#-user-management-api---go-backend)
 
 </div>
+
 
