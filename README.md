@@ -396,8 +396,8 @@ PUT /users/:id
 Content-Type: application/json
 
 {
- "name": "Abhay",
-  "dob": "1990-05-15",
+ "name": "Abhay singh",
+  "dob": "1990-05-15"
 }
 ```
 
@@ -405,7 +405,7 @@ Content-Type: application/json
 ```json
 {
   "id": 1,
-   "name": "Abhay",
+   "name": "Abhay singh",
     "dob": "1990-05-15",
 }
 ```
@@ -812,5 +812,6 @@ in the Software without restriction...
 [⬆ Back to Top](#-user-management-api---go-backend)
 
 </div>
+
 
 
